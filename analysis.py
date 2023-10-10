@@ -1,10 +1,6 @@
-# Firstname Lastname
-# NetID
-# COMP 182 Spring 2021 - Homework 5, Problem 4
-# You can import any standard library, as well as Numpy and Matplotlib.
-# You can use helper functions from provided.py, and autograder.py,
-# but they have to be copied over here.
-# Your code here...
+# Henry Pu
+# S01408737
+
 from collections import deque
 from copy import *
 import numpy
